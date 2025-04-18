@@ -1,0 +1,8 @@
+[INFO] 2025/03/27 11:13:30 logger.go:34: test
+[INFO] 2025/03/27 11:26:15 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/27 11:28:53 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/27 11:30:07 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/27 11:30:21 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/27 11:31:14 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/27 12:38:23 c:/Users/User/DemoGo/controllers/user_controller.go:74 User Update
+[INFO] 2025/03/28 15:24:10 c:/Users/User/DemoGo/controllers/user_controller.go:72 User Update
